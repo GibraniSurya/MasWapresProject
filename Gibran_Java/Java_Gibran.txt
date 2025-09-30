@@ -1,0 +1,13 @@
+NAMA : GIBRANI SURYA SANGTARA
+NIM  : 25106050034
+
+
+Figma adalah sebuah platform desain digital serbaguna yang berjalan sepenuhnya secara online,
+mirip seperti Google Docs untuk para desainer. Aplikasi ini sangat populer untuk merancang tampilan visual 
+(UI/UX) aplikasi, website, dan produk digital lainnya. Keunggulan utamanya adalah fitur **kolaborasi real-time**, 
+yang memungkinkan seluruh tim—mulai dari desainer, manajer produk, hingga developer—untuk bekerja, 
+memberi komentar, dan mengedit satu file desain secara bersamaan. Selain untuk membuat desain statis (mockup), 
+Figma juga bisa digunakan untuk membangun **prototipe interaktif** yang bisa di-klik, 
+sehingga semua orang bisa merasakan alur aplikasi sebelum benar-benar dibuat, 
+menjadikannya alat 'all-in-one' yang sangat efisien untuk 
+pengembangan produk digital.
